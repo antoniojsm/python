@@ -1,3 +1,4 @@
+#variaveis e tipos de dados
 nome = 'antonio' #String 
 idade = '16 anos' #int
 altura=  1.78 #float
